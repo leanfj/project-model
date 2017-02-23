@@ -6,4 +6,12 @@ ol {
   padding: 0; }
 
 h1 {
-  color: red; }
+  color: #61B8D4; }
+
+.navbar {
+  display: -ms-flexbox;
+  display: flex; }
+
+li {
+  padding: 20px;
+  list-style: none; }
